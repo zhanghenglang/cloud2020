@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.demo.springcloud.dao.PaymentDao">
+    <resultMap id="BaseResultMap" type="com.demo.springcloud.entities.Payment">
+        <id column="id" property="id"/>
+        <result column="name" property="name"/>
+
+    </resultMap>
+    <insert id="create">
+        insert into shop_brand(name) values (#{name})
+    </insert>
+    <select id="getPaymentById" resultMap="BaseResultMap">
+        select id,name from shop_brand where id=#{id}
+    </select>
+
+
+</mapper>
