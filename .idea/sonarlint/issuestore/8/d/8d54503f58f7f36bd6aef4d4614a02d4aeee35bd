@@ -1,5 +1,18 @@
 
-r
-java:S1128"PRemove this unused import 'com.demo.springcloud.config.ApplicationContexConfig'.(Øáåìúÿÿÿÿ8—ï°Ö»0
-j
-java:S4488"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(æç“¾ùÿÿÿÿ8šÊ®Ö»0
+Y
+java:S1155">Use isEmpty() to check whether the collection is empty or not.(³¾¤¯8‰¶ë—¿0
+O
+java:S3740"/Provide the parametrized type for this generic.(ëÎðùÿÿÿÿÿ8ùï¢ï¾0
+c
+java:S4488"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(¥Ã¿¾8åæÙ—¿0
+c
+java:S4488"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(Ã†î»8ù­Ÿï¾0
+h
+java:S4488"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(æç“¾ùÿÿÿÿ8šÊ®Ö»0
+p
+java:S1128"PRemove this unused import 'com.demo.springcloud.config.ApplicationContexConfig'.(Øáåìúÿÿÿÿ8—ï°Ö»0
+T
+java:S3516"9Refactor this method to not always return the same value.(§öéß8þüë—¿0
+V	java:S125"<This block of commented-out lines of code should be removed.(§”Íî8û•’¨¾0
+b
+java:S2259"GA "NullPointerException" could be thrown; "instances" is nullable here.(³¾¤¯8‰¶ë—¿0
