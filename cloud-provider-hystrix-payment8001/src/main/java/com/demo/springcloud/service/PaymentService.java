@@ -77,9 +77,6 @@ public class PaymentService {
 //            TimeUnit.SECONDS.sleep(second);
 //        } catch (InterruptedException e) {
 //            e.printStackTrace();
-
-
-
 //        }
 
 
