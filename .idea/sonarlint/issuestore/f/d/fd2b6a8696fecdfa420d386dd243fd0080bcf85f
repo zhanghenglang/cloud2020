@@ -1,13 +1,13 @@
 
-d
-java:S1128"GRemove this unused import 'com.alibaba.druid.sql.ast.expr.SQLCaseExpr'.(‰Ç‚è8…õ©¿0
-C
-java:S1452 "&Remove usage of generic wildcard type.(çÔØŠ8…õ©¿0
-H
-java:S1452*"&Remove usage of generic wildcard type.(¹«Èíşÿÿÿÿ8…õ©¿0
-j
-java:S4488)"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(æç“¾ùÿÿÿÿ8…õ©¿0
-c
-java:S2142I"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8¹ğ›ª¿0
 l
 java:S4488"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(µ›«…ûÿÿÿÿ8…õ©¿0
+H
+java:S1452*"&Remove usage of generic wildcard type.(¹«Èíşÿÿÿÿ8…õ©¿0
+c
+java:S2142I"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8¹ğ›ª¿0
+d
+java:S1128"GRemove this unused import 'com.alibaba.druid.sql.ast.expr.SQLCaseExpr'.(‰Ç‚è8…õ©¿0
+j
+java:S4488)"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(æç“¾ùÿÿÿÿ8…õ©¿0
+C
+java:S1452 "&Remove usage of generic wildcard type.(çÔØŠ8…õ©¿0
